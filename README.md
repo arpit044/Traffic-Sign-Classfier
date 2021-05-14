@@ -1,1 +1,1 @@
-# Traffic-Sign-Classfier
+# Traffic-Sign-Classifier
